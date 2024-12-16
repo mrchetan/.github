@@ -10,7 +10,7 @@ If you do not receive a response within 48 hours, please send a follow-up email 
 
 For vulnerabilities with significant impact, contact us immediately.
 
-Alternatively, you can report a security vulnerability via GitHub Issues.
+Alternatively, you can [report a security vulnerability via GitHub Issues](https://github.com/{repo}/issues/new?template=security.md).
 
 ## Security Updates
 
