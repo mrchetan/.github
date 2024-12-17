@@ -1,9 +1,8 @@
 title: Announcements
-description: Use this template for announcements.
 labels:
   - announcement
 
-form:
+body:
   - type: markdown
     attributes:
       value: |
