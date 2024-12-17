@@ -1,0 +1,53 @@
+title: Announcements
+description: Use this template for announcements.
+labels:
+  - announcement
+
+form:
+  - type: markdown
+    attributes:
+      value: |
+        ## Announcement Details
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Provide a title for the announcement.
+      placeholder: Enter the title here
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a detailed description of the announcement.
+      placeholder: Enter the description here
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the category of the announcement.
+      options:
+        - label: General
+          value: general
+        - label: Update
+          value: update
+        - label: Alert
+          value: alert
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: Provide the date of the announcement.
+      placeholder: Enter the date here
+    validations:
+      required: true
+  - type: checkbox
+    id: urgent
+    attributes:
+      label: Urgent
+      description: Mark this announcement as urgent.
