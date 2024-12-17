@@ -1,4 +1,4 @@
-# Welcom to Devanox Private Limited
+# Welcome to Devanox Private Limited
 
 
 ## Why Choose us for Your Next Project?

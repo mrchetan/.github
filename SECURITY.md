@@ -1,19 +1,58 @@
 # Security Policy
 
+At Devanox Private Limited, we prioritize system security. Despite our efforts, vulnerabilities may exist.
+
+If you discover a vulnerability, please inform us so we can address it promptly. Your assistance helps us protect our clients and systems.
+
+### Out of Scope Vulnerabilities:
+- Clickjacking on pages with no sensitive actions
+- Unauthenticated/logout/login CSRF
+- Attacks requiring MITM or physical access
+- Social engineering attacks
+- Activities leading to service disruption (DoS)
+- Content spoofing and text injection without an attack vector
+- Email spoofing
+- Missing DNSSEC, CAA, CSP headers
+- Lack of Secure or HTTP only flag on non-sensitive cookies
+- Deadlinks
+- User enumeration
+
+### Testing Guidelines:
+- Do not run automated scanners on other customer projects. Obtain permission and notify us at security@devanox.com before running scanners on Devanox projects.
+- Avoid actions that may harm Devanox or its customers.
+- Do not access, modify, or delete data that does not belong to you.
+- Do not exploit vulnerabilities by downloading more data than necessary or modifying/deleting others' data.
+
+### Reporting Guidelines:
+- Provide sufficient information to reproduce the problem for a quick resolution.
+- Include your name and contact information for follow-up.
+- Attach screenshots, videos, or logs if possible.
+
+### Disclosure Guidelines:
+- Do not disclose the problem until we have addressed it and informed affected customers.
+- Share a draft of any public research about Devanox with us at least 30 days before publication. Exclude:
+  - Data about Devanox customer projects
+  - Devanox customers' data
+  - Information about Devanox employees, contractors, or partners
+
+### Our Commitment:
+- We will respond within 5 business days with an evaluation and resolution date.
+- If you follow the above instructions, we will not take legal action against you.
+- We will handle your report confidentially and not share your personal details without permission.
+- We will keep you informed of progress.
+- We will credit you as the discoverer of the problem (unless you prefer otherwise).
+
+We aim to resolve issues quickly and involve you in the publication of the problem after resolution.
+
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please email us at [security@devanox.com](mailto:security@devanox.com) with the details. We will respond promptly to address the issue.
+- Email [security@devanox.com](mailto:security@devanox.com) with details of the vulnerability. We will respond promptly. Do not publicly disclose vulnerabilities until resolved. If you do not receive a response within 48 hours, send a follow-up email.
+- Report via GitHub by selecting "Report a security vulnerability" when creating an issue.
 
-Please refrain from publicly disclosing security vulnerabilities until they have been resolved.
-
-If you do not receive a response within 48 hours, please send a follow-up email to ensure we received your message.
-
-For vulnerabilities with significant impact, contact us immediately.
-
-Alternatively, you can report a security vulnerability via GitHub Issues.
+For significant vulnerabilities, contact us immediately.
 
 ## Security Updates
 
-We will notify users of any security updates through our release notes.
+We will notify users of security updates through our release notes.
 
-Thank you for helping to keep our project secure!
+Thank you for helping keep our project secure!
