@@ -1,6 +1,6 @@
 # Security Policy
 
-At Devanox Private Limited, we prioritize system security. Despite our efforts, vulnerabilities may exist.
+At Chetan, we prioritize system security. Despite our efforts, vulnerabilities may exist.
 
 If you discover a vulnerability, please inform us so we can address it promptly. Your assistance helps us protect our clients and systems.
 
@@ -18,8 +18,8 @@ If you discover a vulnerability, please inform us so we can address it promptly.
 - User enumeration
 
 ### Testing Guidelines:
-- Do not run automated scanners on other customer projects. Obtain permission and notify us at security@devanox.com before running scanners on Devanox projects.
-- Avoid actions that may harm Devanox or its customers.
+- Do not run automated scanners on other customer projects. Obtain permission and notify us at security@mrchetan.com before running scanners on Chetan projects.
+- Avoid actions that may harm Chetan or its customers.
 - Do not access, modify, or delete data that does not belong to you.
 - Do not exploit vulnerabilities by downloading more data than necessary or modifying/deleting others' data.
 
@@ -30,10 +30,10 @@ If you discover a vulnerability, please inform us so we can address it promptly.
 
 ### Disclosure Guidelines:
 - Do not disclose the problem until we have addressed it and informed affected customers.
-- Share a draft of any public research about Devanox with us at least 30 days before publication. Exclude:
-  - Data about Devanox customer projects
-  - Devanox customers' data
-  - Information about Devanox employees, contractors, or partners
+- Share a draft of any public research about Chetan with us at least 30 days before publication. Exclude:
+  - Data about Chetan customer projects
+  - Chetan customers' data
+  - Information about Chetan employees, contractors, or partners
 
 ### Our Commitment:
 - We will respond within 5 business days with an evaluation and resolution date.
@@ -46,7 +46,7 @@ We aim to resolve issues quickly and involve you in the publication of the probl
 
 ## Reporting a Vulnerability
 
-- Email [security@devanox.com](mailto:security@devanox.com) with details of the vulnerability. We will respond promptly. Do not publicly disclose vulnerabilities until resolved. If you do not receive a response within 48 hours, send a follow-up email.
+- Email [security@mrchetan.com](mailto:security@mrchetan.com) with details of the vulnerability. We will respond promptly. Do not publicly disclose vulnerabilities until resolved. If you do not receive a response within 48 hours, send a follow-up email.
 - Report via GitHub by selecting "Report a security vulnerability" when creating an issue.
 
 For significant vulnerabilities, contact us immediately.

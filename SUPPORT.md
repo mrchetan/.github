@@ -10,6 +10,6 @@ Thank you for using our project. Follow these guidelines to get support.
 
 ## Contact us
 
-For additional support, email us at support@devanox.com. We aim to respond within 48 hours.
+For additional support, email us at support@mrchetan.com. We aim to respond within 48 hours.
 
 Thank you for your support!

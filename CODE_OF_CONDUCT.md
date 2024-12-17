@@ -1,6 +1,6 @@
 ## Code of Conduct
 
-Any violations of this code may be reported to Chetan at [chetan@devanox.com](mailto:chetan@devanox.com):
+Any violations of this code may be reported to Chetan at [contact@mrchetan.com](mailto:contact@mrchetan.com):
 
 - Participants will be tolerant of opposing views and diverse perspectives.
 - Participants must ensure that their language and actions are free of personal attacks, disparaging remarks, and discriminatory behavior.
